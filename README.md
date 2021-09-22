@@ -1,4 +1,4 @@
-# BigGAN-PyTorch
+# BigGAN-PyTorch(Test for Texture Transition)
 The author's officially unofficial PyTorch BigGAN implementation.
 
 ![Dogball? Dogball!](imgs/header_image.jpg?raw=true "Dogball? Dogball!")
